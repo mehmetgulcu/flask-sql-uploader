@@ -10,9 +10,9 @@ os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 # Veritabanı bilgileri
 db_host = "localhost"
 db_port = "5432"
-db_name = "AvrupaSarjDb"
+db_name = "testDb"
 db_user = "postgres"
-db_password = "avrupasarj"
+db_password = "test123"
 
 def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
