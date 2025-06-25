@@ -18,5 +18,5 @@ Bu uygulama; geliştirici makinelerinden, staging veya test ortamlarına veri ak
 1. Projeyi klonlayın:
 
 ```bash
-git clone https://github.com/kullaniciadi/flask-sql-uploader.git
+git clone https://github.com/mehmetgulcu/flask-sql-uploader.git
 cd flask-sql-uploader
